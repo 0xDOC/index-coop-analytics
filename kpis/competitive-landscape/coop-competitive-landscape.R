@@ -18,6 +18,7 @@ index_products <- list(
   list('Index Coop', 'metaverse-index', 'MVI'),
   list('Index Coop', 'btc-2x-flexible-leverage-index', 'BTC2x-FLI'),
   list('Index Coop', 'eth-2x-flexible-leverage-index', 'ETH2x-FLI'),
+  list('Index Coop', 'bankless-bed-index', 'bed'),
   
   # Indexed
   list('Indexed Finance', 'defi-top-5-tokens-index', 'DEFI5'),
@@ -25,7 +26,7 @@ index_products <- list(
   list('Indexed Finance', 'degen-index', 'DEGEN'),
   list('Indexed Finance', 'oracle-top-5', 'ORCL5'),
   list('Indexed Finance', 'nft-platform-index', 'NFTP'),
-  list('Indexed Finance', '484-fund', 'ERROR'),
+  list('Indexed Finance', 'future-of-finance-fund', 'FFF'),
   
   # PowerPool
   list('PowerPool', 'power-index-pool-token', 'PIPT'),
@@ -43,7 +44,11 @@ index_products <- list(
   list('PieDAO', 'metaverse-nft-index', 'PLAY'),
   
   # BasketDAO
-  list('BasketDAO', 'basketdao-defi-index', 'BDI')
+  list('BasketDAO', 'basketdao-defi-index', 'BDI'),
+  
+  #Amun
+  list('Amun', 'amun-defi-index', 'dfi'),
+  list('Amun', 'amun-defi-momentum-index', 'dmx')
   
 )
 
